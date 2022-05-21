@@ -14,9 +14,12 @@
     <title>Min to Max Counter</title>
   </head>
   <body>
-	  
-    <h1>Min to Max Counter</h1>
-		<h3>This program will display all numbers from  your minimum number up to your maximum number:</h3>
+    <?php
+    echo "<h1>Min to Max Counter</h1>";
+    ?>
+		<?php 
+      echo "<h3>This program will display all numbers from  your minimum number up to your maximum number:</h3>";
+    ?>
 		<table>
 			<tr align = "center">
 				<td valign="top" align="right">					
